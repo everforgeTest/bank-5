@@ -4,7 +4,7 @@ const { ContractResponseTypes } = require("../../Constants/ContractReponses");
 const { SqliteDatabase } = require("./dbHandler").default;
 const { SharedService } = require("./SharedService");
 const settings = require("../../settings.json").settings;
-
+//upgrade
 class UpgradeService {
     constructor(message) {
         this.message = message;
