@@ -14,7 +14,7 @@ class SharedService {
         return date.toISOString();
     }
 
-    
+    //shared
 }
 
 module.exports = { SharedService };
