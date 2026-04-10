@@ -7,6 +7,7 @@ const { SharedService } = require("./Services/Common.Services/SharedService");
 const { Tables } = require("./Constants/Tables");
 const settings = require("./settings.json").settings;
 const { SqliteDatabase } = require("./Services/Common.Services/dbHandler").default;
+dxgfdgfh
 //dsfdg
 /*abc d\return await this.service.upgradeContract(zipBuf, parseFloat(data.version), data.description || "");
         } catch (e) {
